@@ -1,6 +1,13 @@
 Question 1: Explain the difference between analog and digital signals.
 
+Digital signals are discrete, and can only be 1 and 0, whereas analog signals can be any value in a continuous range
+
+
 Question 2: Give an example of something that uses digital signals and how it uses it.
+
+Wifi uses digital signals via phase-shift keying, and it shifts the phase of a carrier wave to alternate between 1 and 0.
+
 
 Question 3: Give an example of something that uses analog signals and how it uses it.
 
+AM Radio uses analog signals to communicate sound waves. More specifically, the amplitude of the waves are used to indicate the pitch and volume of a sound.
